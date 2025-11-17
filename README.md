@@ -6,7 +6,7 @@ Design Pattern in Java
 - [Factory Method](https://github.com/fppuma/java-factory-method)
 - [Builder](https://github.com/fppuma/java-builder-fluency)
 - Singleton
-- Proxy
+- Prototype
 
 
 # Structural
